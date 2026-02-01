@@ -52,10 +52,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/SomyaPatidar06/SomyaPatidar06/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img align="right" height="150" src=""  />
+<img src="https://raw.githubusercontent.com/SomyaPatidar06/output/snake.svg" alt="Snake animation" />
 
 ###

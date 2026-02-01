@@ -1,5 +1,4 @@
 <br clear="both">
-
 <h2 align="center">Python developer with strong expertise in AI and Machine Learning. Skilled in Python programming and experienced with libraries like NumPy, Pandas, Matplotlib, and Scikit-learn. Knowledgeable in Deep Learning, NLP, and AI prompting, with a passion for building intelligent, data-driven, and scalable solutions.</h2>
 
 ###

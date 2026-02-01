@@ -1,4 +1,5 @@
 <br clear="both">
+
 <h2 align="center">Python developer with strong expertise in AI and Machine Learning. Skilled in Python programming and experienced with libraries like NumPy, Pandas, Matplotlib, and Scikit-learn. Knowledgeable in Deep Learning, NLP, and AI prompting, with a passion for building intelligent, data-driven, and scalable solutions.</h2>
 
 ###
@@ -46,5 +47,15 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="30" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/SomyaPatidar06/SomyaPatidar06/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img align="right" height="150" src=""  />
 
 ###

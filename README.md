@@ -52,6 +52,6 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/SomyaPatidar06/SomyaPatidar06/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/SomyaPatidar06/SomyaPatidar06/output/github-contribution-grid-snake.svg)
 
 ###

@@ -1,4 +1,6 @@
-<h2 align="center">Python developer with strong expertise in AI and Machine Learning. Skilled in Python programming and experienced with libraries like NumPy, Pandas, Matplotlib, and Scikit-learn. Knowledgeable in Deep Learning, NLP, and AI prompting, with a passion for building intelligent, data-driven, and scalable solutions.</h2>
+<h2 align="center">Python developer with strong expertise in AI and Machine Learning. Skilled in Python programming and experienced with libraries like NumPy, Pandas, Matplotlib, and Scikit-learn. Knowledgeable in Deep Learning, NLP, and AI prompting, with a passion for building intelligent, data-driven, and scalable solutions.
+<p </p>
+</h2>
 
 <div align="center">
 </div>
@@ -28,9 +30,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
 </div>
 
+<h2 
+  </h2>
+  
 ###
-
-<br clear="both">
 
 <div align="center">
   <a href="somyapatidar03@gmail.com " target="_blank">
@@ -42,8 +45,6 @@
 </div>
 <h2 
   </h2>
-
-<br clear="both">
 
 ###
 
